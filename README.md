@@ -41,19 +41,18 @@ This assignment aims to enhance your skills in protein modeling and refinement b
 
 1. Energy Minimization:
 
-    - [ ] Use VMD to load the Pb2 protein model.
-    - [ ] Run NAMD simulations for energy minimization to reduce steric clashes and optimize geometry.
+    - [x] Use VMD to load the Pb2 protein model.
+    - [x] Run NAMD simulations for energy minimization to reduce steric clashes and optimize geometry.
 
 2. Simulations:
 
-    - [ ] Refine the model further through molecular dynamics simulations.
+    - [x] Refine the model further through molecular dynamics simulations.
 
 3. Model Evaluation:
 
-    - [ ] Assess the quality of refined models using:
-    - [ ] RMSD and Ramachandran plots.
-    - [ ] Stability from simulation results.
-    - [ ] Structural quality scores.
+    - [x] RMSD and Ramachandran plots.
+    - [x] Stability from simulation results.
+    - [x] Structural quality scores.
     - [ ] Compatibility with experimental data, if available.
 
 ### Task 4: Reporting
